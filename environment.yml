@@ -34,3 +34,4 @@ dependencies:
   - ipympl
   - python=3.7
   - make
+  - seaborn
