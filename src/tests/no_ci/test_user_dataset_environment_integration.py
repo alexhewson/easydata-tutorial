@@ -19,7 +19,7 @@ class TestDatasets(unittest.TestCase):
         ds = Dataset.load('penguins-clean')
         ### There is a typo in this test and it will fail.
         ### Please fix it!
-        assert ds.data.shape == (334, 4)
+        assert ds.data.shape == (334, 7)
 
     def test_penguins_scaled(self):
         ds = Dataset.load('penguins-scaled')
