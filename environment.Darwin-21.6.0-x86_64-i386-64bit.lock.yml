@@ -100,6 +100,7 @@ dependencies:
   - libgfortran5=11.3.0=h9dfd629_28
   - libglib=2.78.4=h19e1a8f_0
   - libiconv=1.16=hca72f7f_2
+  - libllvm11=11.1.0=h46f1229_6
   - libllvm14=14.0.6=h91fad77_3
   - libnghttp2=1.57.0=h9beae6a_0
   - libopenblas=0.3.21=h54e7dc3_0
@@ -114,6 +115,7 @@ dependencies:
   - libxslt=1.1.35=h5b33f42_0
   - libzlib=1.2.13=h8a1eda9_5
   - llvm-openmp=14.0.6=h0dcd299_0
+  - llvmlite=0.39.1=py37h8346a28_0
   - lxml=4.9.1=py37h65b224f_0
   - lz4-c=1.9.4=hcec6c5f_0
   - make=4.2.1=h3efe00b_1
@@ -135,6 +137,7 @@ dependencies:
   - nest-asyncio=1.5.6=py37hecd8cb5_0
   - notebook=6.5.2=py37hecd8cb5_0
   - notebook-shim=0.2.2=py37hecd8cb5_0
+  - numba=0.56.4=py37h07fba90_0
   - numexpr=2.8.4=py37h57a7bef_0
   - numpy=1.21.5=py37h0f1bd0b_3
   - numpy-base=1.21.5=py37hbda7086_3
@@ -161,6 +164,7 @@ dependencies:
   - pycparser=2.21=pyhd3eb1b0_0
   - pyct=0.5.0=py37hecd8cb5_0
   - pygments=2.17.2=pyhd8ed1ab_0
+  - pynndescent=0.5.4=pyhd3eb1b0_0
   - pyopenssl=23.0.0=py37hecd8cb5_0
   - pyparsing=3.0.9=py37hecd8cb5_0
   - pyqt=5.15.7=py37he9d5cce_0
@@ -200,6 +204,7 @@ dependencies:
   - sphinxcontrib-qthelp=1.0.3=pyhd3eb1b0_0
   - sphinxcontrib-serializinghtml=1.1.5=pyhd3eb1b0_0
   - sqlite=3.41.2=h6c40b1e_0
+  - tbb=2021.8.0=ha357a0b_0
   - terminado=0.17.1=py37hecd8cb5_0
   - threadpoolctl=2.2.0=pyh0d69192_0
   - tinycss2=1.2.1=py37hecd8cb5_0
@@ -210,6 +215,7 @@ dependencies:
   - traitlets=5.7.1=py37hecd8cb5_0
   - typing-extensions=4.4.0=py37hecd8cb5_0
   - typing_extensions=4.4.0=py37hecd8cb5_0
+  - umap-learn=0.5.3=py37hf985489_0
   - urllib3=1.26.14=py37hecd8cb5_0
   - wcwidth=0.2.5=pyhd3eb1b0_0
   - webencodings=0.5.1=py37_1

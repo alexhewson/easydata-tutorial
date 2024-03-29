@@ -35,3 +35,4 @@ dependencies:
   - python=3.7
   - make
   - seaborn
+  - conda-forge::umap-learn
