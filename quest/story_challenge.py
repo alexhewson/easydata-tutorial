@@ -6,7 +6,7 @@ assert quest_instruction.__doc__ != None
 run_notebook(notebook_name="06-Story-Challenge.ipynb",
      notebook_path=paths['notebook_path'],
      output_notebook_name="06-Story-Challenge-Test-Run.ipynb",
-     output_notebook_path=notebook_test_path)
+     output_notebook_path=paths['notebook_test_path'])
 
 
 print("""\n

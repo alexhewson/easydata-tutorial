@@ -9,6 +9,7 @@ _path_defaults = {
     'figures_path': '${output_path}/figures',
     'interim_data_path': '${data_path}/interim',
     'notebook_path': '${project_path}/notebooks',
+    'notebook_test_path': '${project_path}/notebooks/test-runs',
     'output_path': '${project_path}/reports',
     'processed_data_path': '${data_path}/processed',
     'project_path': '${catalog_path}/..',
